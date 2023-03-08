@@ -1,4 +1,4 @@
-# Git_for_GitHub-
+# Git_for_GitHub
 
 Git - login to GitHub via SSH Key 
 
