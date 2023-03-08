@@ -2,7 +2,7 @@
 
 Git - login to GitHub via SSH Key 
 
-# SSH key generation 
+SSH key generation 
 ssh-keygen 
 cat ~/.ssh/id_rsa.pub  
  
